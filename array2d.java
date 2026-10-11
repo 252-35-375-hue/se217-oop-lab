@@ -1,4 +1,4 @@
-public class array {
+public class array2d {
     public static void main(String[] args) {
 
         int[][] numbers = {
