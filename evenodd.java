@@ -1,4 +1,4 @@
-public class Main {
+public class evenodd {
 
     static boolean isEven(int number) {
         return number % 2 == 0;
