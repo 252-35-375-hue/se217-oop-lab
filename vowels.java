@@ -1,4 +1,4 @@
-public class Main {
+public class vowels {
 
     static int countVowels(String text) {
 
