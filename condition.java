@@ -1,4 +1,4 @@
-public class Main {
+public class condition {
     public static void main(String[] args) {
 
         int marks = 75;
