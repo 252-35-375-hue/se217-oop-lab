@@ -1,4 +1,4 @@
-public class Main {
+public class maxi{
 
     static int maximum(int a, int b) {
 
