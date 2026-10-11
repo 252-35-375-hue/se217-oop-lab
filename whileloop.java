@@ -1,4 +1,4 @@
-public class Main {
+public class whileloop {
     public static void main(String[] args) {
 
         int i = 1;
